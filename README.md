@@ -4,14 +4,14 @@
 **Starknet** is one of the most promising technologies in the Web3 scene. It is a Permissionless Decentralized ZK-Rollup. Any developer can deploy any dApp, using smart contracts, and achieve unlimited scale.
 
 - [Starkware Home Page](https://starkware.co/)
-- [Cairo Language] (https://www.cairo-lang.org/)
-- [A curated list of awesome StarkNet resources, libraries, tools and more.] (https://github.com/gakonst/awesome-starknet)
+- [Cairo Language](https://www.cairo-lang.org/)
+- [A curated list of awesome StarkNet resources, libraries, tools and more.](https://github.com/gakonst/awesome-starknet)
 - [Nile - Manage Cairo projects](https://github.com/OpenZeppelin/nile)
-- [OpenZeppelin Cairo COntracts](https://github.com/OpenZeppelin/cairo-contracts)
+- [OpenZeppelin Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts)
 - [ArgentX - Starknet Wallet](https://chrome.google.com/webstore/detail/argent-x-starknet-wallet/dlcobpjiigpikoobohmabehhmhfoodbb)
 
 ## Tutorial
-Disclaimer: I'm not an expert in Starknet or Cairo, and will use this repo to document my learning process. Anyway, I recommend a basic knowledge on Blockchain as I won't go ddeper into that. Also this is not a Cairo tutorial, go to the cairo page to find an excellent tutorial.
+**Disclaimer**: I'm not an expert in Starknet or Cairo, and will use this repo to document my learning process. Anyway, I recommend a basic knowledge on Blockchain as I won't go deeper into that. Also this is not a Cairo tutorial, go to the cairo page to find an excellent tutorial.
 
 I'm planning to do one of this points everyday and I invite anyone reading this to contribute to this tutorial :)
 
