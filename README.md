@@ -19,7 +19,7 @@ By the end of this tutorial you should be able to cerate an NFT collections and 
 
 **Contents**
 
-1. Environment setup
+1. [Quickstart](./tutorial/1.environment-setup.md)
 2. Install a local tesnet
 3. Deploy a Cairo Smart Contract using Nile, and interact with it (call/invoke)
 4. Deploy a Cairo Smart Contract using Hardhat, and interact with it (call/invoke)
