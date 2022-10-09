@@ -10,6 +10,7 @@
 - [OpenZeppelin Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts)
 - [ArgentX - Starknet Wallet](https://chrome.google.com/webstore/detail/argent-x-starknet-wallet/dlcobpjiigpikoobohmabehhmhfoodbb)
 
+Also if you are interested in the magic Maths behind Starknet, [check this thread](https://twitter.com/EliBenSasson/status/1578380154476208131?s=20&t=fOul0qfitfq-YI6Fwv_xwA)
 ## Tutorial
 **Disclaimer**: I'm not an expert in Starknet or Cairo, and will use this repo to document my learning process. Anyway, I recommend a basic knowledge on Blockchain as I won't go deeper into that. Also this is not a Cairo tutorial, go to the cairo page to find an excellent tutorial.
 
